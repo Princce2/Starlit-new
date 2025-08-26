@@ -1,11 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "./images/logo.png";
-import Cultural1 from "./images/Cultural1.jpg";
-import Cultural2 from "./images/Cultural2.jpg";
-import Cultural3 from "./images/Cultural3.jpg";
-import Cultural5 from "./images/Cultural5.jpg";
-import Cultural6 from "./images/Cultural6.jpg";
+import Cultural1 from "./images/cultural1.jpg";
+import Cultural2 from "./images/cultural2.jpg";
+import Cultural3 from "./images/cultural3.jpg";
+import Cultural6 from "./images/cultural6.jpg";
 import Musics from "./images/musics.jpeg";
 import _MG_7736 from "./images/_MG_7736.jpg";
 import Danceclub from "./images/danceclub.jpeg";
