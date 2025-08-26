@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
-import Cultural1 from "./images/cultural1.jpg";
 import Cultural2 from "./images/cultural2.jpg";
 import Cultural3 from "./images/cultural3.jpg";
 import Cultural5 from "./images/cultural5.jpg";
